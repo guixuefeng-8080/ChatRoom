@@ -1,0 +1,6 @@
+rootProject.name = 'ChatRoom'
+include 'lib-clink'
+include 'sample-server'
+include 'sample-client'
+include 'sample-foo'
+
